@@ -1,17 +1,16 @@
-@import "./utils/vars";
+@import "./utils/variables";
 @import "./utils/hidden";
 @import "./base/reset";
 @import "./base/common";
+// ////////////////////
 @import "./layout/header";
 @import "./layout/hero";
 @import "./layout/benefits";
 @import "./layout/team";
 @import "./layout/customers";
+@import "./layout/portfolio";
+@import "./layout/footer";
 @import "./layout/about";
-@import "./layout/about";
-@import "./layout/about";
-
-
-
-
+// //////////////////
 @import "./components/container";
+@import "./components/modal";
